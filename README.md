@@ -1,1 +1,2 @@
-# twitterClone
+# twitterClone using Tailwind CSS
+
